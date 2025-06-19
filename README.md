@@ -138,7 +138,7 @@ To request permission, contact the developer at: [ap5381545@gail.com](mailto:ap5
 ## Credits
 - Developed by: Anticoder03
 - Chart.js (https://www.chartjs.org/)
-- tailwindcss (https://https://tailwindcss.com/)
+- tailwindcss (https://tailwindcss.com/)
 - FontAwesome (https://fontawesome.com/)
 
 ## Contact
@@ -154,6 +154,6 @@ Astra Billing System is a robust, user-friendly, and secure solution for small b
 
 ## References
 - [Chart.js Documentation](https://www.chartjs.org/docs/)
-- [Bootstrap Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+- [TailwindCSS Documentation](https://tailwindcss.com/docs/installation/play-cdn)
 - [PHP Manual](https://www.php.net/manual/en/)
 - [MySQL Documentation](https://dev.mysql.com/doc/) 
