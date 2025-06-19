@@ -79,12 +79,40 @@ Astra Billing System is a  billing and invoicing solution designed for small bus
 ## Screenshorts
 
 ## User Side:
+### Home Page:
+![image](https://github.com/user-attachments/assets/6740b581-0c58-44d5-a0e1-133524787581)
+![image](https://github.com/user-attachments/assets/09446bb0-889f-4a5b-9dd5-4d3a9109325b)
 
+### Bill Page:
+![image](https://github.com/user-attachments/assets/8eae9521-4162-410f-b92e-40cd6c0b5bb1)
+![image](https://github.com/user-attachments/assets/5f14930c-5c20-430f-aab7-94e001d8514f)
+
+### Print Page:
+![image](https://github.com/user-attachments/assets/14352515-98cd-4137-a564-96d114accfd2)
 
 ## Admin Side: 
 
+### Admin Login:
+![image](https://github.com/user-attachments/assets/05f5741e-1cae-4e0c-8ff4-38e79da418b0)
+
+### Dashboard:
+![image](https://github.com/user-attachments/assets/3f722a49-f1f6-4387-9de4-d01b0e3fd04a)
+
+### View Bill:
+![image](https://github.com/user-attachments/assets/55e23d26-2490-4c9a-b335-5acbdf6d77fa)
+
+### Prnt Bill:
+![image](https://github.com/user-attachments/assets/9944d680-33b5-4481-8dd3-22b56796426e)
 
 
+
+### view Chart:
+![image](https://github.com/user-attachments/assets/70230e13-4e47-487c-9ebc-3e209cfceeb2)
+
+###  Analysis:
+![image](https://github.com/user-attachments/assets/27bec598-9505-41e3-9d0f-92639c5363bf)
+
+                    
 ## Installation
 1. Clone or download this repository.
 2. Place the `HMS` folder in your web server's root directory (e.g., `htdocs` for XAMPP).
